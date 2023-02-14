@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-img{
+    background-image: url(img/pexels-veeterzy-38136.jpg);
+    height: 100vh;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header-padding{
+    padding-top: 12pc;
+    color: aliceblue;
+}
+.back-g{
+    background-color: rgba(240, 248, 255, 0.217);
+    height: 100vh;
+
+}
